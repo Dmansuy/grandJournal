@@ -6,6 +6,8 @@
  	<div class="logo">
  		 <a href="index.php?par=0"><img src="images/logo.png"></a>
  	</div>
+	<div class="search_container">
+		<input class="search_input" type="text" placeholder="Recherche">
 	<nav class="navbar navbar-default">
 		<ul class="nav navbar-nav">
 			<li><a href="index.php?par=0">Accueil</a></li>
